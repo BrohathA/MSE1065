@@ -15,13 +15,13 @@ for the paper.
 
 <b> Featurisation Plan </b>
 <p>
-..* Cathode - composition of elements, type of structure (nano, composite, pure) (one-hot encoding), type of material (sulphide, oxide, graphitic etc.) (one-hot encoding)
-..* Electrolyte - ionic conductvity, SMILES 
-..* Mechanism - CV Oxidation and Reduction Peaks, 16 possible (one-hot encoding) 
+* Cathode - composition of elements, type of structure (nano, composite, pure) (one-hot encoding), type of material (sulphide, oxide, graphitic etc.) (one-hot encoding)
+* Electrolyte - ionic conductvity, SMILES 
+* Mechanism - CV Oxidation and Reduction Peaks, 16 possible (one-hot encoding) 
 </p>
 
-  <b> Learning Task </b>
-  ..* Basic: Try to classify the materials based on Capacity, Energy and Power Density 
-  ..* Couple of ways to go about it: either predict capacity using features or predict mechanism using features 
-  </p>
+ <b> Learning Task </b>
+ * Basic: Try to classify the materials based on Capacity, Energy and Power Density 
+ * Couple of ways to go about it: either predict capacity using features or predict mechanism using features 
+ </p>
  
